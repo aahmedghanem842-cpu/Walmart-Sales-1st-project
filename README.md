@@ -19,7 +19,7 @@ It is designed to help stakeholders quickly identify sales patterns, track key p
 - **Fields Included:** Date, Product Category, Units Sold, Revenue, Store Location.
 
 ## 🖼 Dashboard Preview
-*(Add screenshots of your dashboard here after uploading them to the repository)*
+https://github.com/aahmedghanem842-cpu/Walmart-Sales-1st-project/blob/main/Screenshot%202025-08-13%20121722.png
 
 ## 🛠 Tools Used
 - **Power BI Desktop** for data modeling, transformation, and visualization.
